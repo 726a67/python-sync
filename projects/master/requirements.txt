@@ -14,10 +14,10 @@ numpy
 pandas
 plotly
 psycopg2-binary
+pyinstaller
 pyproj
 #rtree
 scikit-learn
 scipy
 shapely
 tkcalendar
-#tkinter
