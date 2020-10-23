@@ -12,6 +12,7 @@ graphviz
 matplotlib
 numpy
 pandas
+pip
 plotly
 psycopg2-binary
 pyinstaller
