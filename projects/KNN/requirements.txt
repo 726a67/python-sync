@@ -1,0 +1,27 @@
+# common
+pip
+pyinstaller
+setuptools
+wheel
+
+# project specific
+collections
+csv
+cx_Oracle (64-bit)
+descartes
+fiona
+gdal
+geopandas
+geopy
+math
+matplotlib
+numpy
+pandas
+psycopg2
+pyproj
+rtree
+scikit-learn
+scipy
+shapely
+sys
+time
