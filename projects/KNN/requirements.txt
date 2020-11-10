@@ -7,7 +7,7 @@ wheel
 # project specific
 collections
 csv
-cx_Oracle (64-bit)
+cx_Oracle
 descartes
 fiona
 gdal
