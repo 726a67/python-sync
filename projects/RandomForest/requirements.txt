@@ -5,23 +5,18 @@ setuptools
 wheel
 
 # project specific
-collections
-csv
 cx_Oracle
 descartes
 fiona
-gdal
+#gdal
 geopandas
 geopy
-math
 matplotlib
 numpy
 pandas
-psycopg2
+psycopg2-binary
 pyproj
-rtree
+#rtree
 scikit-learn
 scipy
 shapely
-sys
-time
